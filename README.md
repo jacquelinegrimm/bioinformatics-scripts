@@ -5,7 +5,7 @@ This repository contains a collection of bioinformatics scripts useful for commo
 ## Scripts
 
 ### biopython_basics.ipynb
-`biopython_basics.ipynb` is Colab notebook that provides an introduction to using Biopython for various basic tasks.
+`biopython_basics.ipynb` provides an introduction to using Biopython for various basic tasks.
 
 #### Features:
 - Accessing NCBI databases with Entrez
