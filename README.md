@@ -14,6 +14,14 @@ This repository contains a collection of bioinformatics scripts useful for commo
 - Obtaining the complement or reverse complement of a DNA sequence
 - Translating sequences of DNA/RNA
 
+### exploratory_analysis.ipynb
+`exploratory_analysis.ipynb` is a Colab notebook demonstrating one approach to exploratory data analysis of microbiome sequencing data.
+
+#### Features:
+- Exploring data distribution using histograms and box plots
+- Visualizing differences in taxonomic composition with Bray-Curtis dissimilarity and Principal Coordinates Analysis (PCoA)
+- Statistical testing with PERMANOVA
+
  ### power_analysis.ipynb
 `power_analysis.ipynb` contains code for conducting power analysis during experimental design.
 
