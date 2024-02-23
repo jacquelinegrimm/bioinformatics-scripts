@@ -1,6 +1,6 @@
 # Basic Bioinformatics Scripts
 
-This repository contains a collection of bioinformatics scripts useful for common tasks, such as downloading genomes from NCBI and calculating required sample sizes.
+This repository contains a collection of bioinformatics scripts useful for common tasks.
 
 ## Scripts
 
